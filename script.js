@@ -1,4 +1,8 @@
 // Function to close the welcome menu
+function helloworld() {
+  const mainaa = 0
+}
+
 function closeWelcomeMenu() {
   const welcomeMenu = document.getElementById('welcome-menu');
   welcomeMenu.style.display = 'none';
